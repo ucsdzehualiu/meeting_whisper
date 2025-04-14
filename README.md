@@ -1,7 +1,4 @@
-README (README.md)
-markdown
-Copy
-Edit
+
 # Meeting Transcription Generator (Whisper)
 
 ## Overview
